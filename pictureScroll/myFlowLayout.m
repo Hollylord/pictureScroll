@@ -20,7 +20,7 @@
     if (self) {
 //        self.scrollDirection = UICollectionViewScrollDirectionHorizontal;
 //        self.sectionInset = UIEdgeInsetsMake(200, 0.0, 200, 0.0);
-        self.minimumLineSpacing = -10.0;
+        self.minimumLineSpacing = -12.0;
     }
     return self;
 }
